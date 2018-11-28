@@ -4,4 +4,4 @@ Git is learn.
 12377
 Git tracks changes.
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick or simple.
